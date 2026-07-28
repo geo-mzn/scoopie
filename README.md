@@ -1,0 +1,2 @@
+# scoopie
+Bucket for Scoop.
