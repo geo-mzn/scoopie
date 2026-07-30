@@ -3,6 +3,6 @@
     "description": "Utility app for Scoopie.",
     "license": "MIT",
     "url": "https://github.com/geo-mzn/scoopie/releases/download/beta-apps/scoopie.exe",
-    "hash": "sha256:AC8B72F25242BBA91D677F7E34D639C860F89DC138389F8841AC32E5AE91407A",
+    "hash": "sha256:01BDFCEB08A106E941EBEA74EA7F8CF90BAFFF81A2051D80AB33E856D87435A9",
     "bin": "scoopie.exe"
 }
