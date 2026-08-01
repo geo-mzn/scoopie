@@ -1,0 +1,8 @@
+{
+    "version": "0.1.0",
+    "description": "Powershell Aliases.",
+    "license": "MIT",
+    "url": "https://github.com/geo-mzn/scoopie/releases/download/beta-apps/cmds.exe",
+    "hash": "sha256:ffeb198958372dd2dc59807a6ee482b66550272392ef398dfcfa93fdb6ef7d03",
+    "bin": "cmds.exe"
+}
